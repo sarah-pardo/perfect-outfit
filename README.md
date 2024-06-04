@@ -62,5 +62,7 @@ Chicago, IL
 Payment method: Credit card XXXX XXXX XXXX 1234
 $14.99 baseball hat
 ```
-###Step 7: Browse some more or logout!
+### Step 7: Browse some more or logout!
+```
 Come again soon!
+```
