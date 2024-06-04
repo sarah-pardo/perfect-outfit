@@ -28,7 +28,7 @@ Enter 3 to remove an item from your cart
 Enter 4 to checkout
 Enter 0 to save cart and logout.
 ```
-###Step 3: Add some products to your cart!
+### Step 3: Add some products to your cart!
 ```
 #1
 $14.99 baseball hat
@@ -36,15 +36,15 @@ $14.99 baseball hat
    __/___\
 baseball hat added to cart!
 ```
-###Step 4: Review your cart
+### Step 4: Review your cart
 ```
 Cart Item #1
 $14.99 baseball hat
       ___
    __/___\
   ``` 
-###Step 5: Remove any unwanted items from your cart.
-###Step 6: Checkout
+### Step 5: Remove any unwanted items from your cart.
+### Step 6: Checkout
 ```
 Cart Item #1
 $14.99 baseball hat
