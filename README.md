@@ -1,10 +1,14 @@
-Title: SE 450 Object Orientated Development Final Project - PERFECT OUTFIT SHOPPING SIMULATOR
-Author: Sarah Pardo
-Date: 6/03/2024
+# SE 450 Object Oriented Development Final Project - PERFECT OUTFIT SHOPPING SIMULATOR
 
-Perfect outfit is a console based shopping simulator.
-Run the app from Eclipse or your favorite Java IDE and follow the prompts in your console. 
-Step 1: Create an account.
+**Author:** Sarah Pardo  
+**Date:** 6/03/2024
+
+## Introduction
+Perfect Outfit is a console-based shopping simulator. Run the app from Eclipse or your favorite Java IDE and follow the prompts in your console.
+
+## Getting Started
+### Step 1: Create an Account
+```
 * * * * * * * * * 
 *|              |*
 *|  Welcome to  |*
@@ -15,31 +19,33 @@ Step 1: Create an account.
 Enter 1 to create an account
 Enter 2 to login to existing account
 Enter 0 to quit
-
-Step 2: Browse the menu
+```
+### Step 2: Browse the menu
+```
 Enter 1 to browse and add products
 Enter 2 to view cart
 Enter 3 to remove an item from your cart
 Enter 4 to checkout
 Enter 0 to save cart and logout.
-
-Step 3: Add some products to your cart!
-
+```
+###Step 3: Add some products to your cart!
+```
 #1
 $14.99 baseball hat
       ___
    __/___\
 baseball hat added to cart!
-
-Step 4: Review your cart
-
+```
+###Step 4: Review your cart
+```
 Cart Item #1
 $14.99 baseball hat
       ___
    __/___\
-   
-Step 5: Remove any unwanted items from your cart.
-Step 6: Checkout
+  ``` 
+###Step 5: Remove any unwanted items from your cart.
+###Step 6: Checkout
+```
 Cart Item #1
 $14.99 baseball hat
       ___
@@ -55,6 +61,6 @@ GuestUser's order:
 Chicago, IL
 Payment method: Credit card XXXX XXXX XXXX 1234
 $14.99 baseball hat
-
-Step 7: Browse some more or logout!
+```
+###Step 7: Browse some more or logout!
 Come again soon!
